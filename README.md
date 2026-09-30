@@ -1,8 +1,8 @@
 # Technical Writing & Research Portfolio
 
-A portfolio showcasing my experience in research, technical writing, scientific communication, structured analysis, source evaluation, and professional document development using Microsoft Word.
+A portfolio showcasing my experience in research, technical writing, scientific communication, structured analysis, source evaluation, data interpretation, and professional document development using Microsoft Word.
 
-The projects in this repository cover scientific, healthcare, environmental, technology, and education topics. They demonstrate my ability to research complex subjects, synthesize information from multiple sources, organize findings logically, communicate technical concepts clearly, and produce professionally structured written documents.
+The projects in this repository cover chemistry, engineering, environmental science, healthcare, technology, psychology, education, and biological sciences. They demonstrate my ability to research complex subjects, synthesize information from multiple sources, analyze technical evidence, organize findings logically, communicate specialized concepts clearly, and produce professionally structured written documents.
 
 ---
 
@@ -20,7 +20,71 @@ All identifying student and institutional information has been removed or anonym
 
 # Featured Writing Samples
 
-## 1. Water Quality in Port Arthur
+## 1. Camera-Based Analysis of Pedestrian Congestion - Atlanta BeltLine Eastside Trail
+
+**Project Type:** Engineering Research & Field Data Analysis  
+**Tool:** Microsoft Word  
+**Role:** Researcher, Technical Writer & Data Analyst
+
+Developed an engineering-focused research report examining pedestrian, bicycle, and scooter congestion on the Atlanta BeltLine Eastside Trail.
+
+The project used camera-based field observation and pedestrian movement analysis to investigate congestion, close passing, sudden stops, lane changes, and other safety concerns. The report also evaluated field-data limitations and proposed engineering solutions to improve trail safety and traffic flow.
+
+### Key Work Completed
+
+- Developed a structured engineering research report
+- Examined pedestrian, cyclist, and scooter movement in a shared-use environment
+- Analyzed video footage from multiple camera positions
+- Evaluated congestion patterns and user movement behaviors
+- Identified slowing, sudden stopping, close passing, and lane-changing events
+- Documented field deployment procedures and equipment limitations
+- Evaluated data-quality issues caused by equipment performance and field conditions
+- Integrated pedestrian counts and video observations into the analysis
+- Researched transportation-design standards and supporting literature
+- Proposed separated lanes, improved pavement markings, signage, monitoring, and transit solutions
+- Discussed research limitations and recommendations for future data collection
+- Integrated academic, transportation, and government sources
+
+### Skills Demonstrated
+
+Engineering Research • Video Analysis • Field Data Collection • Data Interpretation • Transportation Research • Technical Writing • Research Methodology • Problem Solving • Source Synthesis • Evidence-Based Recommendations • Technical Documentation • Microsoft Word
+
+[View Word Document](./Camera-Based%20Analysis%20of%20Pedestrian%20Congestion%20-%20Atlanta%20BeltLine%20Eastside%20Trail.docx)
+
+---
+
+## 2. Electron Microscopy in Chemistry and Physics
+
+**Project Type:** Chemistry & Physics Technical Research  
+**Tool:** Microsoft Word  
+**Role:** Scientific Researcher & Technical Writer
+
+Developed a scientific research paper explaining electron microscopy, its underlying physical principles, and its applications in chemistry and materials science.
+
+The paper examines transmission electron microscopy, scanning transmission electron microscopy, electron wavelength, electromagnetic focusing, scattering, spectroscopy, and chemical-analysis techniques such as EDX and EELS.
+
+### Key Work Completed
+
+- Researched the scientific principles behind electron microscopy
+- Explained the relationship between electron wavelength and imaging resolution
+- Examined electromagnetic focusing and electron scattering
+- Discussed transmission and scanning transmission electron microscopy
+- Explained EDX and EELS analytical techniques
+- Connected physical principles with chemical analysis
+- Examined applications involving nanoparticles, catalysts, batteries, semiconductors, and advanced materials
+- Evaluated advantages and limitations of electron microscopy
+- Researched modern developments in atomic-scale chemical imaging
+- Integrated scientific literature into a structured technical explanation
+
+### Skills Demonstrated
+
+Chemistry Research • Physics Research • Scientific Writing • Instrumental Analysis • Electron Microscopy • Materials Science • Spectroscopy • Technical Research • Literature Review • Scientific Communication • Source Evaluation • Microsoft Word
+
+[View Word Document](./Electron%20Microscopy%20in%20Chemistry%20and%20Physics.docx)
+
+---
+
+## 3. Water Quality in Port Arthur
 
 **Project Type:** Environmental Research & Technical Report  
 **Tool:** Microsoft Word  
@@ -50,7 +114,7 @@ Environmental Research • Technical Writing • Scientific Research • Data In
 
 ---
 
-## 2. Cloud Computing Adoption
+## 4. Cloud Computing Adoption
 
 **Project Type:** Technology & Business Analysis  
 **Tool:** Microsoft Word  
@@ -64,7 +128,7 @@ The report evaluates how organizations can align cloud adoption with business ob
 
 - Analyzed organizational planning requirements for cloud adoption
 - Examined business objectives, governance, security, and compliance considerations
-- Compared Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
+- Compared Infrastructure as a Service, Platform as a Service, and Software as a Service
 - Evaluated advantages and disadvantages of cloud computing
 - Analyzed risks including data breaches, account hijacking, DDoS attacks, and service outages
 - Developed a structured methodology for selecting cloud service models
@@ -80,7 +144,7 @@ Technical Writing • Technology Research • Cloud Computing • Risk Analysis 
 
 ---
 
-## 3. Pharmacotherapy for Genitourinary Tract Disorders
+## 5. Pharmacotherapy for Genitourinary Tract Disorders
 
 **Project Type:** Scientific & Healthcare Technical Writing  
 **Tool:** Microsoft Word  
@@ -111,7 +175,7 @@ Scientific Writing • Pharmacology Research • Technical Research • Literatu
 
 ---
 
-## 4. Caffeine as a Plant Chemical Adaptation
+## 6. Caffeine as a Plant Chemical Adaptation
 
 **Project Type:** Scientific Research Writing  
 **Tool:** Microsoft Word  
@@ -141,7 +205,40 @@ Scientific Writing • Chemistry Research • Biology Research • Literature Re
 
 ---
 
-## 5. Reflective Analysis of the Hidden Curriculum
+## 7. Solution-Focused Therapy - Michelle Case Study 2
+
+**Project Type:** Psychology & Counseling Case Analysis  
+**Tool:** Microsoft Word  
+**Role:** Researcher & Analytical Writer
+
+Developed an evidence-based case analysis applying Solution-Focused Therapy to a young adult experiencing educational delays, employment dissatisfaction, financial pressure, relationship concerns, and uncertainty about future goals.
+
+The project integrates counseling theory, research evidence, goal setting, intervention techniques, emotional regulation, decision-making, and structured problem-management strategies.
+
+### Key Work Completed
+
+- Analyzed a detailed counseling case study
+- Applied Solution-Focused Therapy principles to client concerns
+- Researched evidence supporting solution-focused interventions
+- Developed realistic and measurable counseling goals
+- Examined scaling, miracle, exception, coping, and relationship questions
+- Connected counseling techniques with client-specific needs
+- Developed strength-mapping and small-step planning strategies
+- Examined emotional regulation and decision-making approaches
+- Integrated research from psychology and counseling literature
+- Evaluated barriers affecting education, employment, relationships, and future planning
+- Developed structured intervention and progress-review recommendations
+- Organized extensive research into a coherent analytical report
+
+### Skills Demonstrated
+
+Case Analysis • Psychology Research • Counseling Research • Evidence-Based Writing • Literature Review • Critical Thinking • Goal Development • Problem Solving • Research Synthesis • Analytical Writing • Source Integration • Microsoft Word
+
+[View Word Document](./Solution-Focused%20Therapy%20-%20Michelle%20Case%20Study%202.docx)
+
+---
+
+## 8. Reflective Analysis of the Hidden Curriculum
 
 **Project Type:** Reflective & Analytical Writing  
 **Tool:** Microsoft Word  
@@ -149,7 +246,7 @@ Scientific Writing • Chemistry Research • Biology Research • Literature Re
 
 Developed a structured reflective analysis examining how school routines, discipline practices, allocation of time, communication structures, and institutional expectations can communicate unintended messages to students.
 
-The work analyzes how hidden messages can influence belonging, motivation, authority, student voice, and educational goals, while proposing practical strategies for developing more positive school environments.
+The work analyzes how hidden messages can influence belonging, motivation, authority, student voice, and educational goals while proposing practical strategies for developing more positive school environments.
 
 ### Key Work Completed
 
@@ -184,6 +281,8 @@ Analytical Writing • Reflective Writing • Education Research • Critical Th
 - Content Development
 - Content Editing
 - Structured Writing
+- Evidence-Based Writing
+- Case Analysis
 
 ## Research & Analysis
 
@@ -196,7 +295,24 @@ Analytical Writing • Reflective Writing • Education Research • Critical Th
 - Critical Thinking
 - Analytical Reasoning
 - Data Interpretation
-- Evidence-Based Writing
+- Research Methodology
+- Multi-Source Research
+- Evidence Evaluation
+- Problem Solving
+- Recommendations Development
+
+## Scientific & Technical Analysis
+
+- Chemistry Research
+- Environmental Research
+- Engineering Research
+- Instrumental Analysis
+- Scientific Data Interpretation
+- Video-Based Observation
+- Field Data Analysis
+- Technical Literature Review
+- Scientific Content Analysis
+- Quality-Focused Research
 
 ## Documentation
 
@@ -209,18 +325,29 @@ Analytical Writing • Reflective Writing • Education Research • Critical Th
 - Source Integration
 - Tables and Structured Content
 - Proofreading and Editing
+- Technical Documentation
+- Research Documentation
 
 ## Subject Areas Represented
 
 - Chemistry
-- Pharmacology
+- Analytical Chemistry
+- Physics
+- Electron Microscopy
+- Materials Science
+- Engineering
+- Transportation
 - Environmental Science
 - Public Health
+- Pharmacology
+- Healthcare
+- Biological Sciences
 - Information Technology
 - Cloud Computing
 - Cybersecurity
+- Psychology
+- Counseling
 - Education
-- Biological Sciences
 
 ---
 
@@ -242,11 +369,11 @@ Analytical Writing • Reflective Writing • Education Research • Critical Th
 
 I am an Industrial Chemistry graduate from the University of Nairobi with experience in scientific research, technical writing, AI training and evaluation, data analysis, presentation development, and freelance research work.
 
-My writing experience spans scientific, healthcare, environmental, technology, and education topics. I am comfortable working with technical sources, interpreting research findings, organizing complex information, developing structured arguments, and communicating specialized information in clear language.
+My writing experience spans chemistry, engineering, environmental science, healthcare, technology, psychology, education, and biological sciences. I am comfortable working with technical sources, interpreting research findings, analyzing data, organizing complex information, developing structured arguments, and communicating specialized concepts clearly.
 
 My additional work in AI training and model evaluation has strengthened my ability to assess content for factual accuracy, logical consistency, relevance, clarity, instruction following, and overall quality.
 
-I am particularly interested in opportunities involving scientific content evaluation, AI training, technical writing, research, data analysis, and structured documentation.
+I am particularly interested in opportunities involving AI training, scientific content evaluation, technical writing, research, data analysis, quality evaluation, and structured documentation.
 
 ---
 
@@ -256,14 +383,18 @@ I also maintain separate portfolios covering:
 
 ### Executive Presentation & Visual Communication
 
-Microsoft PowerPoint projects demonstrating presentation development, visual storytelling, process visualization, information hierarchy, and technical communication.
+Microsoft PowerPoint projects demonstrating presentation development, visual storytelling, process visualization, information hierarchy, technical communication, and data visualization.
+
+[View Executive Presentation Portfolio](https://github.com/valerieginger-bit/executive-presentation-portfolio)
 
 ### Excel Data Analysis & Visualization
 
-Microsoft Excel projects demonstrating statistical analysis, financial modeling, structured research, quantitative analysis, and spreadsheet reporting.
+Microsoft Excel projects demonstrating statistical analysis, financial modeling, structured research, quantitative analysis, spreadsheet reporting, and data interpretation.
+
+[View Excel Portfolio](https://github.com/valerieginger-bit/excel-data-visualization)
 
 ---
 
 # Portfolio Focus
 
-**Technical Writing • Scientific Research • Research Synthesis • Scientific Communication • Documentation • Analytical Writing • Source Evaluation • AI Content Evaluation • Microsoft Word**
+**Technical Writing • Scientific Research • Engineering Research • Research Synthesis • Scientific Communication • Data Interpretation • Documentation • Analytical Writing • Source Evaluation • Literature Review • AI Content Evaluation • Microsoft Word**
